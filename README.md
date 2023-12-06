@@ -1,3 +1,6 @@
+API Google Keep
+Rust / Actix-Web / Sqlite3
+
 dependencias e versões:
 
 actix-web = "4.4.0"
